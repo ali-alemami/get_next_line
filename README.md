@@ -1,6 +1,8 @@
 *This project has been created as part of the 42 curriculum by aalemami.*
 
-## Description
+# get_next_line
+
+---
 
 get_next_line is a C function that reads and returns one line at a time from a file descriptor. Each call returns the next line, and `NULL` is returned when there is nothing left to read. A bonus version supports reading from multiple file descriptors simultaneously.
 
